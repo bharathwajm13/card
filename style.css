@@ -1,0 +1,17 @@
+*{
+    font-family:'Segoe UI';
+    margin: 1px;
+    padding: 0;
+}
+li{
+    margin: auto;
+    list-style-type: disc;
+    color: rgb(79, 75, 75);
+    font-size: 18px;
+}
+img{
+    height: 30%;
+    width: 30%;
+    box-shadow: 15px 15px lightblue;
+    border-radius: 10px;
+}
